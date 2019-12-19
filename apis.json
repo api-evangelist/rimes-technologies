@@ -1,0 +1,57 @@
+{
+    "name": "RIMES Technologies",
+    "description": "RIMES Technologies is a financial data management specialist providing services to the investment management community. Learn more about our services.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28304-www-rimes-com.jpg",
+    "tags": [
+        "api not found",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/rimes-technologies\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RIMES Technologies",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28304-www-rimes-com.jpg",
+            "humanURL": "https:\/\/www.rimes.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rimes-technologies-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/rimes-technologies-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/rimes-technologies"
+        },
+        {
+            "type": "Email",
+            "url": "info@rimes.com"
+        },
+        {
+            "type": "Email",
+            "url": "events@rimes.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RIMESTech"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.rimes.com"
+        }
+    ]
+}
